@@ -1,2 +1,3 @@
 # hello-world
-Github newbie
+Github newbie here.
+Trying to learn machine-learning here to make life a bit easier.
